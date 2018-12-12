@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  node.cpp
+c:\users\adriana\source\repos\x tree\x tree\node.cpp(132): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  X tree.cpp
+c:\users\adriana\source\repos\x tree\x tree\x tree.cpp(132): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Xtree.cpp
+c:\users\adriana\source\repos\x tree\x tree\xtree.cpp(396): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Generando código...
